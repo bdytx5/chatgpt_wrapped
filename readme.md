@@ -25,13 +25,4 @@ Install the required Python packages:
 pip install matplotlib
 
 
-Your directory should look like this:
-
-project/ ├── stats_visual.py \n
-         ├── conversation_stats.png \n
-         ├── export_folder_unzipped/conversations.json
-
-
----
-
-**Fix Explanation**: The directory block was incorrectly formatted. Ensure you use triple backticks (\`\`\`) for code blocks and no unnecessary inline code markers.
+place the script in the in the same directory as your unzipped chatgpt export folders 
