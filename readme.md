@@ -27,8 +27,8 @@ pip install matplotlib
 
 Your directory should look like this:
 
-project/ ├── stats_visual.py 
-         ├── conversation_stats.png 
+project/ ├── stats_visual.py \n
+         ├── conversation_stats.png \n
          ├── export_folder_unzipped/conversations.json
 
 
