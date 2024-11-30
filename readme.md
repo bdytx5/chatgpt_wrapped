@@ -24,15 +24,8 @@ Install the required Python packages:
 pip install matplotlib
 
 Usage
-
-
-
+Here's the corrected Markdown format for your directory structure:
 
 Your directory should look like this:
 
-project/
-├── stats_visual.py
-├── conversation_stats.png  # Generated output
-├── byyoung3_export_aug_24/
-│   ├── conversations.json
-│   └── ...
+project/ ├── stats_visual.py ├── conversation_stats.png # Generated output ├── byyoung3_export_aug_24/ │ ├── conversations.json │ └── ...
