@@ -1,6 +1,7 @@
 # ChatGPT Statistics Visualizer
 
-![Alt Text](./conversation-stats.png)
+![Example Visualization](./conversation-stats.png)
+
 
 
 This Python script processes nested `conversations.json` files, analyzes word and phrase frequencies, calculates the total word count, and generates a Spotify Wrapped-style visualization of the results.
