@@ -15,19 +15,12 @@ This Python script processes nested `conversations.json` files, analyzes word an
 
 Clone the repository:
 
-```bash
-git clone https://github.com/your-username/conversation-stats-visualizer.git
-cd conversation-stats-visualizer
 
 Install the required Python packages:
 
 pip install matplotlib
 
 Usage
-
-Run the script with the words or phrases you want to analyze as arguments:
-
-python stats_visual.py "word1" "phrase1" "phrase2"
 
 
 
