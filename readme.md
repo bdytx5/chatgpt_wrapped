@@ -2,7 +2,7 @@
 
 ![Example Visualization](https://github.com/bdytx5/chatgpt_wrapped/blob/main/conversation-stats.png?raw=true)
 
-python stats_visual.py "I apologize" "please forgive me" "thank you" "sorry" "kindly" "excuse me" "pardon me" "my apologies" "I regret" "with respect" "I deeply regret" "sincerely sorry"
+`python stats_visual.py "I apologize" "please forgive me" "thank you" "sorry" "kindly" "excuse me" "pardon me" "my apologies" "I regret" "with respect" "I deeply regret" "sincerely sorry"`
 
 
 This Python script processes nested `conversations.json` files, analyzes word and phrase frequencies, calculates the total word count, and generates a Spotify Wrapped-style visualization of the results.
