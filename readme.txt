@@ -1,6 +1,6 @@
 # ChatGPT Statistics Visualizer
 
-![Example Visualization](./conversation-stats.png)
+![Example Visualization](https://github.com/bdytx5/chatgpt_wrapped/blob/main/conversation-stats.png?raw=true)
 
 
 
