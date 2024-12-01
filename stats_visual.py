@@ -5,7 +5,7 @@ of specific words or phrases passed as command-line arguments. It exports the re
 as an image similar to Spotify Wrapped.
 
 Usage:
-    python stats_visual.py "fuck you" "hello world"
+    python stats_visual.py "bruh" "hello world"
 """
 
 import os
